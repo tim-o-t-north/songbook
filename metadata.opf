@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">155</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1cc61f62-a93a-4306-8db4-a66ba173bcab</dc:identifier>
+        <dc:title>Tim's Songbook</dc:title>
+        <dc:creator opf:file-as="Pillinger, Tim" opf:role="aut">Tim Pillinger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.68.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <dc:subject>music</dc:subject>
+        <meta content="{&quot;Tim Pillinger&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-09-25T18:13:51.935000+00:00" name="calibre:timestamp"/>
+        <meta content="Tim's Songbook" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

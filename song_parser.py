@@ -29,7 +29,7 @@ def main():
                 output.append('<i>{}</i><br>'.format(line[1:]))
             elif raw_text[0] == line:
                 title = line
-                output.append('<h2 id=''>{}</h2>'.format(line))
+                output.append('<h2 id=\'\'>{}</h2>'.format(line))
             elif line == '\n':
                 output.append('\n</p><p>')
             else:

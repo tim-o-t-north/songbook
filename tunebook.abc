@@ -1,0 +1,448 @@
+X:1
+T:Theme Vannitaise
+O:Brittany
+M:4/4
+C:Tri Yann
+A:Border
+R:Reel
+L:1/8
+K:Emin
+P:A
+|:\
+E2 B2 B2 AB|G2 E2 E4|A2 AG F2 FE|DE FA G2 F2|\
+E2 B2 B2 AB|G2 E2 E4|A2 AG F2 FE|DEFA  E4:|\
+P:B
+|:EF GF EF GF|EF GA B2 G2|DE FE D3  E|F2 A2 G2 F2|\
+EF GF EF GF|EF GA B2 G2|DE FE D3  A|G2 F2 E4:|
+
+X:2
+T:Bear Dance
+M:4/4
+L:1/8
+S:Bear Sessions
+K:Em
+B2E2E3A|B2E2E3A|G2G2F2G2|A6GA|B2B2A2A2|G2G2F4|E2G2FED2|E8:|!/
+|: E2GGE2G
+2|FED2D4|E2GGE2G2|A6GA|B2B2A2A2|G2G2F4|E2G2FED2|E4:|!
+
+X:3
+T:Indian Point
+R:Jig
+C:Rick Mohr
+F:http://home.attbi.com/~rick.mohr/
+L:1/8
+M:6/8
+K:Em
+"Em"B,EF G2A|BAG FED|"C"CEF G2A|BAG BAG|
+"D"FED A,2D|FEF AGF|1"Em"EFG BAG|"Bm"F3 FED:|2"Em"GFE "Bm"FED|"Em"E3 E2|]
+|:A|"Em"Bef gfe|"C"cef gfe|"D"dfg agf|"Em"gfe "Bm"fed|
+"Em"Bef gfe|"C"ceg "Am"a2a|"Bm"bag fgf|"Em"e3 "D"e2:|
+
+X:3
+T: Sí Beag Sí Mór
+R: waltz
+M: 3/4
+L: 1/8
+K: Dmaj
+de |: f3e d2 | d2 de d2 |B4 A2 | F4 A2 | BA Bc d2 | e4 de| f2 f2 e2 |
+d4 f2 | B4 e2 | A4 d2 | F4 E2 | D4 e2 | B4 e2 | A4 dc | d6 | d4 de :|
+|: f2 fe d2 | ed ef a2 | b4 a2 | f4 ed | e4 a2 | f4 e2 | d4 B2 | A4 BA |
+F4 E2 | D4 f2|B4 e2 | A4 a2| ba gf ed | e4 dc | d6 |1 d4 de:|2 d6 || 
+
+X: 4
+T:Because he was a bonny Lad
+M:C
+K:G
+d|\
+B>AGg (e/f/g/).e/ {e}d{c}B| ce (e/d/)(c/B/) cA Ad|\
+B>AGg (e/f/g/)e/ {e}d(c/B/)| c>e (d/e/d/c/) BG G::
+d|\
+("tr"B>AG)B cdec| BG e/d/c/B/ cAAd|\
+B>AGB cdef| g/f/e/d/ gB G/G/G Gd|
+BGdG eGdG| BG e/d/c/B/ cAAf|\
+gefd ecdB| ce (d/e/d/)c/ BG G|]
+
+X: 5
+T:Because he was a bonny Lad (D)
+M:C
+K:D
+A|\
+F>EDd (B/c/d/).B/ {B}A{G}F| GB (B/A/)(G/F/) GE EA|\
+F>EDd (B/c/d/)B/ {B}A(G/F/)| G>B (A/B/A/G/) FD D::
+A|\
+("tr"F>ED)F GABG| FD B/A/G/F/ GEEA|\
+F>EDF GABc| d/c/B/A/ dF D/D/D DA|
+FDAD BDAD| FD B/A/G/F/ GEEc|\
+dBcA BGAF| GB (A/B/A/)G/ FD D|]
+
+X: 6
+M: C|
+L: 1/4
+P: Jamie Allen
+Z: John Chambers <jc:trillian.mit.edu>
+N: Jamie Allen was a Northumbrian small-pipes player.
+K: G
+ G/A/ \
+| "G"BG GA | "Em"B2 GA/B/ | "Am"cA AB | "D7"c2 BA \
+| "G"Gg "C"ge | "G"d2 B>c | "D7"dd c/B/A | "G"G3 |]
+ B/A/ \
+| "G"Gg g>f | "Em"ed cB | "Am"Aa a>g | "D7"fd ef \
+| "C"g>a ge | "G"d2 B>c | "D7"dd c/B/A | "G"G3 |]
+
+X: 7
+T: Southwind
+T: An Ghaoth Aneas
+O: Trad
+R: waltz
+Z: John Chambers <jc@trillian.mit.edu>
+M: 3/4
+L: 1/4
+%Q: 30
+K: G
+|: c | "G"B>AG | Bcd | "Am"A2A | "D7"A2c \
+| "G"B>AG | "C"EDE | "C"G2G | "G"G2 :|
+d \
+| "G"g2g | "C"g>fe | "G"d2d | "D7"d2c \
+| "G"B>AG | "Em"Bcd | "A7"A2A | "D7"ABd |
+| "G"g2g | "C"g>fe | "G"d2d | "D7"d2c \
+| "G"B>AG | "D7"A<cF | "C"G2G | "G"G2 |]
+%%sep 2 1 500
+
+X: 8
+T:Hole in the Wall     %Tune name
+Q:1/4=100     %Tempo
+|:
+M:3/4     %Meter
+L:1/8     %
+K:G
+"G"B3/2c/ B/c/d "D"Ad |"Em"G3/2A/ G/A/B "Bm"FB |"C"E3/2F/ E/F/G "G"DB|
+"D"AG-GF "G"G2 ::|"Em"g3/2f/ e/f/g fe |"B"^d3/2e/ d/e/f Bf |"Em"g3/2f/ e/f/g fe |
+"B"f e-e ^d "Em"e2 |"C"E3/2F/ E/F/G "D"F/G/A |"G"G3/2A/ G/A/B "D"A/B/c |
+"G"B3/2c/ B/c/d Dd |"D"c B-B A/B/ "G"G2|]
+
+X: 9
+T: the Road and Miles to Dundee
+O: trad
+R: waltz
+Z: 2008 John Chambers <jc@trillian.mit.edu>
+M: 3/4
+L: 1/8
+K: G
+d2 \
+| "G"d4cB | "G7"B2A2D2 \
+| "C"G4FE | "G"D2G2B2 \
+| "C"c4de | "G"d2B2G2 \
+|1 "A7"G2F2G2 | "D7"A4 \
+:|2 "D7"c2A2F2 | "G"G4 |]
+
+X:10
+T:Argiers
+M:4/4
+K:G
+GABc A3 G|F2 D2 D4|d2 A2 d3 c|B2 G2 G4|
+GABc A3 G|F2 D2 D2 D2|EF G2 FG A2|G4 G4:|
+FG A2 FG A2|d2 A2 d2 A2|FG A2 FG A2|d2 A2 d4|
+d2 cB c2 dc|B2 AG A2 D2|EF G2 FG A2|G4 G4:||
+
+X:11
+T:Ye Banks and Braes
+% Nottingham Music Database
+O:Scotland
+M:3/4
+L:1/4
+K:G
+D|\
+"G"G2G|"D7/e"A3/2G/2A|"G/f"BdB|"D7/e"A G A|"G"B A G|"C"E2 D|"Am"DGG|\
+"D7"A2D|
+"G"G2G|"D7/e"A3/2G/2A|"G/f"BdB|"D7/e"AGA|"G"BAG|"C"E2 D|"D7"D G G/2A/2|\
+"G"G2B||
+"G"d2"C"e|"G"dBG|"G"d2"C"e|"G"dBG|"G"dBG|"G"dBG|"Am"e d B|"D7"A2D|
+"G"G2G|"D7/e"A3/2G/2A|"G/f"BdB|"D7/e"AGA|"G"BAG|"C"E2 D|"D7"DGG|"G"G3||
+
+X: 12
+T:Keel Row,The. WCa.40
+M:2/4
+Q:120
+S:Wm. Calvert MS, 1812, Leyburn, Yorks.
+R:Country Dance
+O:England
+A:North Yorkshire
+Z:vmp.Chris Partington, May 2003
+K:G
+c|B2GB|c2Ac|B2GB|A2D2|B2GB|c2Ac|BGAF|G3::!
+c|Bddg|e2dc|B2GB|A2D2|Bddg|e2dc|BGAF|G3:||
+W:Accompanied by fiddle fingering.|
+
+X: 13
+T:Portsmouth
+R:hornpipe
+M:4/4
+L:1/8
+K:G
+D2 | G2GA BAGF | E4  e4 | d2B2 cBAG |A2F2  D4 |
+   | G2GA  BAGF | E4 e4 | d2B2  cBAB |G6 :|
+d2 | g2ga bagf| g2d2 B2d2|d2d2 dcB2|A6 D2 |
+   | G2 GA BAGF | E4  e4 | d2B2 cBAB | G6 :|
+
+X:14
+T:Planxty Irwin
+C:Turlough O'Carolan (1670-1738)
+H:Also in D, #9
+Z:id:hn-carolan-2
+M:3/4
+L:1/4
+K:G
+d | g2f | e>fg | ddc | B>AG | c2A | B>cd | F2G | A2d |
+g2f | e>fg | ddc | B>AG | c2A | B/c/dd | G2A | G2 :|
+|: d | g2g | g>fg | a>ba | afd | b2b | a>bg | f>ge |
+d>ef | g2f | e>fg | ddc | B>AG | c2A | B/c/dd | G2A | G2 :|
+
+X: 15
+T: LILLIBULLERO, or PROTESTANT BOYS' --
+C: Edwin Christie
+B: Ryan's Mammoth Collection of Fiddle Tunes
+M: 6/8
+L: 1/8
+Z: Contributed 20000926194603 by John Chambers John.Chambers:weema.com
+K: G
+ (vA>.B)A c2c | (B>.c)B d2d | c"4"eA (d2c) | BAG "4"A3 \
+| (A>.B)A c2c | (B>.c)B d2d | c"4"eA (d2c) | BAG "4"A3 :|
+  (va2.e) (f2.e) | (a2.e) (f2.e) | efg agf | edc B2z \
+| fed cd"4"e | "4"edc Bcd | "4"ecA (d2c) | BAG "4"A2 :]
+
+X:16
+T:Austin Barratts
+T:Mulvihills
+T:Dusty windowsill, The
+T:Barracks, The
+T:Dusting the Windows
+T:Dusty Windowsills
+T:Trip to the Highlands, The
+R:Jig
+O:Ireland
+N:Anybody got any more names for this  ;-) (thanks to Lawrence Mallette for some of these)
+M:6/8
+C:Johnny Harling
+K:ADor
+A2B cBA | eAB cBA | G2G EGG | DGG EGG |\
+A2B cBA | e2d efg | age dBG | BAG A3 :|*
+|: a2a age | dBd g3 | gag gfe | dBA GAG |\
+EGG DGG | EGG ABc | Bed BAG | BAG A3 :|*
+|: ABA gAf | ABA gAf | GAG eGd | GAG eGd | \
+ABA gAf | ABA efg | age dBG | BAG A3 :|**
+
+X: 17
+P: The Soldier's Joy
+O: Joshua Campbell's Collection 1778
+R: reel
+B: RSCDS 2-6
+N: Suitable Pipe Tunes "The East Neuk of Fife" "Portee men".
+Z: 1997 by John Chambers <jc:trillian.mit.edu>
+M: C|
+L: 1/8
+K: D
+FG \
+| "D"AFDF AFDF | "D"A2d2 d2cB | "D"AFDF AFDF | "A7"G2E2 E2FG | "D"AFDF AFDF |
+| "D"A2d2 d2de | "D"fafd "A7"egec | "D"d2f2 d2 :: de | "D"f2fd fagf | "A7"e2ec egfe |
+| "D"f2fd fagf | "A7"edcB A2g2 | "D"f2fd fagf | "A7"e2ec egfe | "D"fafd "A7"egec | "D"d2f2 d2 :|
+
+X: 18
+T: Easter Thursday
+O: England
+M: 3/2
+L: 1/8
+K: Em
+|: "Em"e4 efg2 f2e2 \
+| "Bm"f2B4 d2c2B2 \
+| "C"c4 cde2 d2c2 \
+| "G"d2G4 d2c2B2 |
+| "Am"ABc2 "Em"BAG2 "Am"AGF2 \
+| "Em"GFE2 "Bm"GAB2 "Em"E4 \
+:: "Em"bagf g2b2 e2b2 \
+| "Am"c'bag "D"f2a2 d2a2 |
+| "G"bagf "C"e2g2 c2g2 \
+| "B7"agfe ^d2f2 B2G2- \
+| "Em"G2A2- "Bm"A2B2- "Em"B2c2- \
+| "Am"c2B2- "Em"B2e2 "B7"f2^d2 :| "Em"He8 |]
+
+X:19
+T:Zycanthos Jig
+M:6/8
+C:Roger Wilson
+S:Clare Maher 2008-4-30 [email]
+K:Am
+|:"Am"a2a  gag |    e2a ag2 |    e2c  BcB | A2F "F"F3 \
+| "Am"EAB  cBA | "F"FAB cBA | "G"B2B ed(B | B)"Am"cd cBA :|
+|:"Dm"d2 d2 c2 |    dc2 B2A |    d2 d2 cd | B3 "E"A3 \
+| "Dm"d2 d2 c2 |    dc2 B2A |    d2 d2 cd | "E"ez2 z2 :|
+
+X:20
+T:Brothers in York
+O:england
+C:Welch MS
+M:6/8
+L:1/8
+K:G
+EGE G2A|B2e dBG|A2B c2A|B2G FED|
+EGE G2A|B2e dBG|A2B c2A|BGE E3:|
+|:e3fge|fab fed|e3fge|fed e3|
+e2f g2e|fab fed|e2B c2A|B G E E3:|
+
+X:21
+T:The Dark Girl Dressed in Blue
+O:england
+Q:1/4=180
+M:4/4
+L:1/8
+K:G
+A3G F2G2|AB cA B2G2|A3G F2G2|A2d2d4|
+A3G F2G2|AB cA B2G2|A2d2^c2e2|d4d4:|
+|:f2f2g2f2|de dB A4|f2f2g2f2|d3B A4|
+f2f2g2f2|de dB A2B2|c2B2c2G2|[1A2AB c2d2:|[2A8
+
+X:22
+T:Smuggler's Reel, The
+T:Old Grey Cat, The
+R:reel
+H:A version of the jig "The Boys of Tandernagee", #152
+D:Mary Custy & Eoin O'Neill (first album)
+Z:id:hn-reel-711
+M:C|
+K:Edor
+e2e2 E3F|GFGA BABc|d2d2 D3E|FEFA BABd|
+e2e2 E3F|GFGA BABc|dBcA BAFG|~E3D E4:|
+|:Beed ~e3f|geaf gfed|Bddc d3B|ABde fagf|
+eB~B2 gB~B2|aB~B2 bB~B2|gfed BA (3Bcd|egfd e4:|
+
+X:23
+T:LNB Polka
+M:2/2
+L:1/8
+Q:1/8=200
+K:D
+"D"d2 A2 "Am"=c3 B | "D"A2 F2 "G"G2 FG | "D"A2 B2 "D"ABAG |
+"D"F2 A2 "Em"E4 |"D"d2 A2 "Am"=c3 B | "D"A2 F2 "G"G2 FG |
+"D"A2 B2 "D"ABAG | "D"F2 E2 "D"D4 |"D"d2 A2 "Am"=c3 B |
+"D"A2 F2 "G"G2 FG | "D"A2 B2 "D"ABAG | "D"F2 A2 "Em"E4 |
+"D"d2 A2 "Am"=c3 B | "D"A2 F2 "G"G2 FG | "D"A2 B2 "D"ABAG |
+"D"F2 E2 "D"D2 EF||
+"Em"G2 E2 "Em"BGEB | "Em"GE B2 "G"B2 AG | "D"F2 D2 "D"AFDA |
+"D"FD A2 "D"A2 GF |"Em"G2 E2 "Em"BGEB | "Em"GE B2 "G"B2 AG |
+"D"A2 B2 "D"ABAG | "D"F2 E2 "D"D2 |"Em"EF | "Em"G2 E2 "Em"BGEB |
+"Em"GE B2 "G"B2 AG | "D"F2 D2 "D"AFDA | "D"FD A2 "D"A2 GF |
+"Em"G2 E2 "Em"BGEB | "Em"GE B2 "G"B2 AG | "D"A2 B2 "D"ABAG |
+"D"F2 E2 "D"D4||
+
+X:24
+T: Jimmy's Return
+M: C|
+L: 1/8
+B: O'Neill's 1444
+Z: "Transcribed by Bob Safranek, rjs@gsp.org"
+K: Bm
+e | f2 Bc dBfB | cAec aecA | f2 Bc dBfB | cAec dBBe |
+f2 Bc dBfB | cAec aecA | BcdB  cdea | fdec dB B ||
+c | Bbfd  BcdB | cAec aecA | Bbfd  BcdB | cAec dBBc |
+Bbfd  BcdB | cAcA aecA | Baga  fgef | dfec dB B |]
+
+X:25
+T:Mad Moll. TLY.007
+T:Peacock Followed The Hen. TLY007
+M:9/4
+L:1/4
+Q:180
+S:Wm.Tildesley,Swinton,Lancs.1860s.
+R:Slip Jig
+O:England.
+A:Lancashire.
+H:1860.
+Z:Taz Tarry.
+K:G
+F|c>d e-c A A c A A|c>d e-c AA B2 G|c>d e c A A c A A|B>c d d>e d B2G|
+|!
+c>d e g-e e g-e e|c>d e g-e e f2 d|c>d e g-e e g-e e|B>c d d>e d B2
+ G||
+
+X:26
+T:Girl with the Blue Dress On
+C: Traditional
+R:reel
+M:4/4
+L:1/8
+%%%%%Q:1/2=112
+K:G
+P:A
+  Bc |: d2Bd c2Ac | B2G2 GFGB | A2F2 FDFG | A2G2 GABc |
+      | d2Bd c2Ac | B2G2 GFGB | A2F2 FDFG |1 A2G2 G2 Bc :|2 A2G2 G2D2 |
+P:B
+   |: G2Bd g3g | f2e2 e4 | DFAd  f3f | e2d2 dcBA |
+   | G2Bd g3g | f2e2 a3g | f2a2 e2f2 | gfga g2 Z2 :|
+
+X: 27
+T: Calliope House
+M: 6/8
+L: 1/8
+R: jig
+K: Dmaj
+|dAA fAA|eAA fAA|Bee e2d|efe dBA|FAA A2F|
+A2B d2e|1 f2f fed|e3 e2A:|2 f2fedc|d3 efg|
+a2a faa|eaa faa|g2g fgf|efe dBA|FAA A2F|
+A2B d2e|1  f2f fed|e3 efg:|2 f2fedc| d3 d3|
+
+X:28
+T:The Keel Row
+C:Trad.
+M:C
+L:1/8
+Q:132
+K:G Major
+"A"|: B2 G>B c2 A>c | B2 G>B A>F D2 | B2 G>B c2 A>c | B>GA>F G2 "B"::
+B>cd>g e2 d>c | B2 G>BA>F D2 | B>cd>g e2 d>c | B>GA>F G2 :|
+
+X: 29
+T: Rats Of Brompton, The
+M: 6/8
+L: 1/8
+R: jig
+K: Amin
+|: e3 e2d | cAA A2B | cAA A2c | BGE E2d | 
+e3 e2d | cAA A2B | cBA BA^G | A3 A3  :|
+|: ^c3 ^cde | d3 d^cB | ^cAA A2^c | BGG B2d |
+ ^c3 ^cde | d3 d^cB | ^cBA BA^G | A3 A3 |
+
+X:30
+T:Ships Are Sailing
+C:traditional
+Z:transcribed by C.McGrew (clark.mcgrew@sunysb.edu)
+R:reel
+M:C|
+Q:1/2=120
+L:1/8
+K:E Dorian
+ed|"Em"Beed "Bm"BcdB|"D"ADFD ADFD|"Em"EDEF "G"GFGA|"Em"Beef "D"gfed|
+"Em"Beed "Bm"BdcB|"D"ADFD ADFD|"Em"EDEF "G"GFGA|"Bm"Bee^d "Em"e2:|
+ef|"Em"gfga bgeg|"D"fefg afdf|"Em"gfga bgeg|"Bm"afdf "Em"e2ef|
+gfga bgeg|"D"fefg afdf|"G"g2bg "D"f2af|"Em"edef gf:|
+
+X: 31
+T:the Trip to Sligo
+R:Jig
+O:Ireland
+M:6/8
+K:Em
+D|\
+E2e BGE|D2d AFD|E2e BGE|GFE e2f|\
+gfe dcB|ABG FED|EFG ABc|BGF E2::
+e|\
+eBe gfe|dAd fed|eBe gfe|f/g/af gfe|\
+f/g/af gfe|dcB AFA|EFG ABc|BGF E2:|
+
+
+
+
+
+
+
+
+
+
